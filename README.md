@@ -1,4 +1,4 @@
-# Flicker2.0
+#PhotoGallery
 Functional requirements
 
 App should display an empty list / grid with loading indicator on first launch and begin fetching items over the network. - Image (for grid layout) or Image & Title (for list layout) should be displayed in a scrollable view - Image thumbnails should be fetched and cached - Display a “Load More” button at end of each batch of thumbnails - “Load More” button should not be displayed after the last batch of thumbnails - App should persist data and display the same on subsequent launch - App should display appropriate error message in case network is unavailable Non-functional requirements
